@@ -10,6 +10,8 @@
 
 O objetivo desta atividade é inspirado em uma vontade pessoal: estou querendo trocar de celular e gostaria de um da marca Xiaomi, mais especificamente da linha Poco. Com isso, pesquisei no site do Mercado Livre "Xiaomi Poco", ordenei pelos anúncios mais relevantes e meu objetivo é pegar todos os anúncios das 10 primeiras páginas dessa pesquisa, coletando informações como nome do anúncio, preço, rating de avaliações e quantidade de avaliações, informações essas que são essenciais para mim na hora de escolher o novo celular.
 
+Toda a aplicação desde a extração de informações, análises e conclusões estão no notebook deste diretório.
+
 ---
 
 #### Curiosidade
